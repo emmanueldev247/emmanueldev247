@@ -1,4 +1,7 @@
-![Hey there, I'm Emmanuel. I'm a software developer, a maker and hardware hobbyist. Check out my work](https://github.com/emmanueldev247/emmanueldev247/blob/master/my_readme_header.gif)
+![Hey there, I'm Emmanuel. I'm a software developer, a maker and hardware hobbyist. Check out my work](https://github.com/emmanueldev247/emmanueldev247/blob/main/my_readme_header.gif)
+
+<img src="https://github.com/emmanueldev247/emmanueldev247/blob/main/my_readme_header.gif" alt="Your GIF" width="100%">
+
 
 <h1 align="center">Emmanuel Ademola Github Profile</h1>
 <h3 align="center">IoT & Robotic Engineer</h3>
