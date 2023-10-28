@@ -84,7 +84,7 @@ Your sponsorship is greatly appreciated. However, there is no minimum or expecta
 
 <samp>To buy me a coffee, click 👉 <a href="https://www.buymeacoffee.com/emmanueldev247" target="_blank" style="display: inline;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"/></a></samp> Your support means the world to me! Thanks for being a part of my creative journey!
 
-Cheers 🥂 ✨
+Cheers ✨
 
 
 <div align="center">
