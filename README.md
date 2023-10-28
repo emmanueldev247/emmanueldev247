@@ -1,4 +1,5 @@
 <p align="center">
+
 ![Hey there, I'm Emmanuel. I'm a software developer, a maker and hardware hobbyist. Check out my work](https://github.com/emmanueldev247/emmanueldev247/blob/main/my_readme_header.gif)
 </p>
 
