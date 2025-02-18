@@ -9,9 +9,9 @@
 </p>
 
 
-- 🔭 I’m working on **Projects using Arduino & Pictoblox**
+- 🔭 I’m working on **Projects using Python, Arduino & Pictoblox**
 
-- 🌱 I’m also learning **Python Programming, C programing & Bash Scripting**
+- 🌱 I’m also learning **Python Programming, C programming & Bash Scripting**
 
 - ⚡ Fun fact: **I'm currently a student of ALX Software Engineering Cohort 16 :book:**
 
@@ -29,9 +29,7 @@
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@emmanueldev247)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanueldev247)
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emmanueldev247)
-
-
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://emmanueldev247.herokuapp.com/) -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emmanueldev247.publicvm.com/)
 
 
 ## 🔧 Tools and Frameworks
