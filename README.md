@@ -18,10 +18,6 @@
             alt="whatsapp-badge" /></a>
 </p>
 
-<img align="right" alt="CodingGuy" width="400"
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"
-    alt="Coding Animation">
-
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=emmanueldev247&label=Profile%20views&color=0e75b6&style=flat"
         alt="Github Profile View badge" /> &nbsp; <a href="https://github.com/emmanueldev247?tab=followers"><img
