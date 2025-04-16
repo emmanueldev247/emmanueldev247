@@ -80,11 +80,15 @@ I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of e
 
 - 🏫 **School Information Management System** – A web-based platform that simplifies **result management** and student data handling for educational institutions
 
-- 💱 **[CurrencyMate](https://emmanueldev247.publicvm.com/currencymate/)** – A smart currency converter built with Flask, offering real-time exchange rates and multi-currency support for travelers and finance-savvy users.
+- 💱 **[CurrencyMate](https://emmanueldev247.publicvm.com/currencymate/)** – A smart currency converter built with Flask, offering real-time exchange rates and multi-currency support for travelers and finance-savvy users
 
 - 🌆 **[Radiance Smart City](https://github.com/emmanueldev247/radiance-smart-city)** _(🏅1st Place)_ – A smart city IoT project featuring **RFID access control**, **smart lighting**, and **fire/flood alerting** via **SMS**/call notifications
 
 - 🗑️ **[Starfield EcoBin](https://github.com/emmanueldev247/starfield-ecobin)** _(🏅1st Place)_ – A motion-activated **smart waste bin** with **fill-level sensing**, designed to optimize waste management in urban areas  
+
+- 🏠 **[Radiance Home Security System](https://github.com/emmanueldev247/radiance-home-security)** – A DIY home security project using Arduino, ultrasonic sensors, and buzzers to detect intrusions
+
+- 🛠️ **[Custom Commands CLI](https://github.com/DafetiteOgaga/custom_commands)** – A productivity-focused CLI tool with 70+ custom commands for automating Git workflows, file operations, and coding standards. Features include repo setup, code linting, stash/commit visualization, React project scaffolding, and token automation — built for developers who live in the terminal
 
 - 🚀 Improved backend performance by **30%** through **Redis-based caching** for faster data retrieval and improved user experience
 
