@@ -31,8 +31,6 @@
             alt="GitHub Followers Badge"></a>
 </p>
 
----
-
 ### 🚀 About Me
 
 I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of experience building smart, scalable solutions across **Backend Development**, **DevOps**, **Cloud Infrastructure** and **IoT/Embedded Systems**.
