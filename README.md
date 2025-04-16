@@ -110,12 +110,12 @@ I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of e
 ## ☕ Support My Work
 
 If you enjoy what I do and want to support my mission to build and share cool tech with the world:
-
-<a href="https://www.buymeacoffee.com/emmanueldev247" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white"
-        alt="Buy Me A Coffee">
-</a>
-
+<p align="center">
+    <a href="https://www.buymeacoffee.com/emmanueldev247" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white"
+            alt="Buy Me A Coffee">
+    </a>
+</p>
 <div align="center">
   <samp>Check out more cool projects in my <a href="https://github.com/emmanueldev247?tab=repositories">Repositories</a> or explore my pinned ones below! ⬇️</samp>
 </div>
