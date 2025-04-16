@@ -35,11 +35,13 @@ I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of e
 
 - 🤖 I create IoT and Robotics projects using Arduino, sensors, servos and PictoBlox
 
+- ⚡ I love building tech that blends **hardware and software** and teaching others how to do the same
+
 - 👨‍🏫 As a tech instructor, I’ve trained young developers in prgramming, IoT & web development, guiding them to success in competitions and helping them pursue careers in tech.
 
 - 📚 Currently expanding my knowledge in JavaScript frameworks and front-end technologies
 
-- ⚡ Fun Fact: Graduated from ALX SE Cohort 22 🎓 — loved every bit of the journey
+- 🎓 Graduated from ALX SE Cohort 22 — loved every bit of the journey
 
 - 🧠 I enjoy solving problems and building systems that are both functional and user-centered
 
@@ -83,7 +85,6 @@ I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of e
 - 🔐 Integrated **JWT + session authentication** and **OAuth** to ensure secure user management, protecting sensitive data and enhancing app security
 - 👨‍🏫 Mentored aspiring developers in **programming**, **robotics**, and **software engineering fundamentals**, fostering skills for the next generation of tech professionals
 
-> I love building tech that blends **hardware and software** and teaching others how to do the same
 
 ## 📊 Stats
 
