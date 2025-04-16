@@ -78,7 +78,7 @@ I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of e
 
 - 🧠 **[Quizzen](https://emmanueldev247.publicvm.com/quizzen)** – An interactive quiz app built with **Flask** and **Redis** for session management and performance optimization
 - 🏫 **School Information Management System** – A web-based platform that simplifies **result management** and student data handling for educational institutions
-
+- 💱 **[CurrencyMate](https://emmanueldev247.publicvm.com/currencymate/)** – A smart currency converter built with Flask, offering real-time exchange rates and multi-currency support for travelers and finance-savvy users.
 - 🌆 **[Radiance Smart City](https://github.com/emmanueldev247/radiance-smart-city)** _(🏅1st Place)_ – A smart city IoT project featuring **RFID access control**, **smart lighting**, and **fire/flood alerting** via **SMS**/call notifications
 - 🗑️ **[Starfield EcoBin](https://github.com/emmanueldev247/starfield-ecobin)** _(🏅1st Place)_ – A motion-activated **smart waste bin** with **fill-level sensing**, designed to optimize waste management in urban areas  
   🚀 Improved backend performance by **30%** through **Redis-based caching** for faster data retrieval and improved user experience
