@@ -43,7 +43,7 @@ I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of e
 
 - 🎓 Graduated from ALX SE Cohort 22 — loved every bit of the journey
 
-- 🧠 I enjoy solving problems and building systems that are both functional and user-centered
+- 🧩 I enjoy building systems that are both functional and user-centered
 
 - 🛠️ I genuinely enjoy debugging and problem-solving — always embracing the challenges and growth
 
