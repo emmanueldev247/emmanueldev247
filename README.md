@@ -27,7 +27,7 @@
 
 ### 🚀 About Me
 
-I'm a **dedicated Software Engineer** and **Tech Instructor** with 3+ years of experience building smart, scalable solutions across **Backend Development**, **DevOps**, **Cloud Infrastructure** and **IoT/Embedded Systems**.
+I'm a **dedicated Software Engineer** and **Tech Instructor** with 5+ years of experience building smart, scalable solutions across **Backend Development**, **DevOps**, **Cloud Infrastructure** and **IoT/Embedded Systems**.
 
 - 👨‍💻 I’m a Backend Engineer passionate about building and deploying scalable, high-performance tech solutions
 
