@@ -1,7 +1,7 @@
 <h1 align="center">Emmanuel Ademola</h1>
 <h3 align="center">Software Engineer || IoT Developer</h3>
 <p align="center">
-    <a href="https://emmanueldev247.publicvm.com" target="_blank" rel="noopener noreferrer"><img
+    <a href="https://emmanueldev247.github.io" target="_blank" rel="noopener noreferrer"><img
             src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"
             alt="portfolio-badge" /></a>
     <a href="https://www.linkedin.com/in/emmanueldev247/" target="_blank" rel="noopener noreferrer"><img
